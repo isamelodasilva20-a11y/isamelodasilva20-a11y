@@ -12,9 +12,7 @@ Sou uma pessoa comunicativa, cooperativa e adaptável às necessidades, sempre d
 
 A partir de cursos e projetos práticos, tenho conhecimento básico em Python, JavaScript, HTML e C++**. Desejo seguir na área de desenvolvimento web e aprimorar meus conhecimentos por meio da prática, além de iniciar e participar de projetos de eletrônica futuramente.
 
-🎓 Atualmente sou estudante do primeiro período.
-
- Estou aberta a networking e oportunidades de estágio que possam enriquecer meus conhecimentos.
+🎓 Atualmente sou estudante do primeiro período, aberta a estágios na área
 
 ## Contato
 
