@@ -3,7 +3,7 @@
 <img width="1400" height="788" alt="0a1ed0a177e78d2ca8a88cefdd648c20" src="https://github.com/user-attachments/assets/70276cea-e0af-4749-bbb5-665d89c5839c" />
 
 
-## Hi there 👋
+
 # 👋 Oi! Meu nome é Isabela Melo
 
 Resido em Recife e sou aluna do primeiro período de **Ciência da Computação** na **CESAR School**, faculdade de tecnologia que me prepara para a prática do mercado.
