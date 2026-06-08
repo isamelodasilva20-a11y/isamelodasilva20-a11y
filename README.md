@@ -1,3 +1,8 @@
+
+
+![<img width="1400" height="788" alt="0a1ed0a177e78d2ca8a88cefdd648c20" src="https://github.com/user-attachments/assets/dfdf5cff-5375-4cf7-9958-892878ef7e9f" />
+](banner.png)
+
 ## Hi there 👋
 # 👋 Oi! Meu nome é Isabela Melo
 
