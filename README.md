@@ -1,16 +1,18 @@
 ## Hi there 👋
+# 👋 Oi! Meu nome é Isabela Melo
 
-<!--
-**isamelodasilva20-a11y/isamelodasilva20-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Resido em Recife e sou aluna do primeiro período de **Ciência da Computação** na **CESAR School**, faculdade de tecnologia que me prepara para a prática do mercado.
 
-Here are some ideas to get you started:
+Sou uma pessoa comunicativa, cooperativa e adaptável às necessidades, sempre disposta a lidar com desafios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A partir de cursos e projetos práticos, tenho conhecimento básico em Python, JavaScript, HTML e C++**. Desejo seguir na área de desenvolvimento web e aprimorar meus conhecimentos por meio da prática, além de iniciar e participar de projetos de eletrônica futuramente.
+
+🎓 Atualmente sou estudante do primeiro período.
+
+ Estou aberta a networking e oportunidades de estágio que possam enriquecer meus conhecimentos.
+
+## Contato
+
+- 📧 E-mail: isabelamelodasilva2007@gmail.com-
+- 💼 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/isabela-melo-da-silva-a0b6713b4)
+
