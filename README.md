@@ -6,7 +6,7 @@
 
 # 👋 Oi! Meu nome é Isabela Melo
 
-Resido em Recife e sou aluna do primeiro período de **Ciência da Computação** na **CESAR School**, faculdade de tecnologia que me prepara para a prática do mercado.
+Resido em Recife e sou aluna do segundo período de **Ciência da Computação** na **CESAR School**, faculdade de tecnologia que me prepara para a prática do mercado.
 
 Sou uma pessoa comunicativa, cooperativa e adaptável às necessidades, sempre disposta a lidar com desafios.
 
